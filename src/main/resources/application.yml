@@ -1,0 +1,17 @@
+#person:
+#  name: ${random.uuid}shiyanfei
+#  age: 27
+#  birthday: 1991/09/01
+#  email: yanfei@163.com
+#  # list写法
+#  books:
+#    - math
+#    - english
+#  #map
+#  map: {v1: k1,v2: k2}
+#  #object1
+#  friends: {name: Tom,age: 12}
+  #object2
+#  friends:
+#    name: Job
+#    age: 12
